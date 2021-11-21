@@ -1,4 +1,4 @@
-# studentcourse
+# school
 
 A new Flutter project.
 
